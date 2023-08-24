@@ -40,9 +40,9 @@
 ## <sub> How to use.
 
 * Add your OpenAI API key to <b>config.ini</b>.
-* python3 cliGPT.py
-  * Run default application. Access ChatGPT and DALL-E.
-* python3 cliGPT.py -h
+* python3 dualGPT.py
+  * Run default application.
+* python3 dualGPT.py -h
   * Display help message.
-* python3 cliGPT.py -m "gpt-4"
+* python3 dualGPT.py -m "gpt-4"
   * Use model "gpt-4".
